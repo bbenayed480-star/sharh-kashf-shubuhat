@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>شرح كشف الشبهات - الشيخ عبدالرزاق البدر</title>
+    <description>شرح كشف الشبهات (عام 1428-1429 هـ) - الشيخ عبدالرزاق بن عبدالمحسن البدر. 11 حلقة كاملة.</description>
+    <link>https://archive.org/details/badir-kashf-shob-1429</link>
+    <language>ar</language>
+    <managingEditor>bbenayed480@gmail.com (الشيخ عبدالرزاق البدر)</managingEditor>
+    <itunes:owner>
+      <itunes:name>الشيخ عبدالرزاق البدر</itunes:name>
+      <itunes:email>bbenayed480@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:author>الشيخ عبدالرزاق بن عبدالمحسن البدر</itunes:author>
+    <itunes:summary>شرح كشف الشبهات (عام 1428-1429 هـ) - الشيخ عبدالرزاق بن عبدالمحسن البدر. 11 حلقة كاملة.</itunes:summary>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Islam"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <image>
+      <url>https://bbenayed480-star.github.io/sharh-kashf-shubuhat/sharh_kashf_shubuhat.jpg</url>
+      <title>شرح كشف الشبهات - الشيخ عبدالرزاق البدر</title>
+      <link>https://archive.org/details/badir-kashf-shob-1429</link>
+    </image>
+    <itunes:image href="https://bbenayed480-star.github.io/sharh-kashf-shubuhat/sharh_kashf_shubuhat.jpg"/>
+
+    <item>
+      <title>شرح كشف الشبهات 01 - المقدمة</title>
+      <description>الحلقة 1 من شرح كشف الشبهات - الشيخ عبدالرزاق البدر</description>
+      <enclosure url="https://archive.org/download/badir-kashf-shob-1429/01.mp3" length="18559795" type="audio/mpeg"/>
+      <guid isPermaLink="false">badir-kashf-shob-1429-ep01</guid>
+      <pubDate>Wed, 02 Dec 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>شرح كشف الشبهات 02 - فبعث الله محمدا صلى الله عليه وسلم يجدد لهم دين أبيهم</title>
+      <description>الحلقة 2 من شرح كشف الشبهات - الشيخ عبدالرزاق البدر</description>
+      <enclosure url="https://archive.org/download/badir-kashf-shob-1429/02.mp3" length="20342374" type="audio/mpeg"/>
+      <guid isPermaLink="false">badir-kashf-shob-1429-ep02</guid>
+      <pubDate>Thu, 03 Dec 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>شرح كشف الشبهات 03 - إذا عرفت ما ذكرت لك معرفة قلب</title>
+      <description>الحلقة 3 من شرح كشف الشبهات - الشيخ عبدالرزاق البدر</description>
+      <enclosure url="https://archive.org/download/badir-kashf-shob-1429/03.mp3" length="19398656" type="audio/mpeg"/>
+      <guid isPermaLink="false">badir-kashf-shob-1429-ep03</guid>
+      <pubDate>Fri, 04 Dec 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>شرح كشف الشبهات 04 - وأنا أذكر لك أشياء مما ذكر الله في كتابه جوابا</title>
+      <description>الحلقة 4 من شرح كشف الشبهات - الشيخ عبدالرزاق البدر</description>
+      <enclosure url="https://archive.org/download/badir-kashf-shob-1429/04.mp3" length="19503513" type="audio/mpeg"/>
+      <guid isPermaLink="false">badir-kashf-shob-1429-ep04</guid>
+      <pubDate>Sat, 05 Dec 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>شرح كشف الشبهات 05 - وأما الجواب المفصل</title>
+      <description>الحلقة 5 من شرح كشف الشبهات - الشيخ عبدالرزاق البدر</description>
+      <enclosure url="https://archive.org/download/badir-kashf-shob-1429/05.mp3" length="15204352" type="audio/mpeg"/>
+      <guid isPermaLink="false">badir-kashf-shob-1429-ep05</guid>
+      <pubDate>Sun, 06 Dec 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>شرح كشف الشبهات 06 - فإن قال أنا لا أعبد إلا الله وهذا الالتجاء</title>
+      <description>الحلقة 6 من شرح كشف الشبهات - الشيخ عبدالرزاق البدر</description>
+      <enclosure url="https://archive.org/download/badir-kashf-shob-1429/06.mp3" length="19084083" type="audio/mpeg"/>
+      <guid isPermaLink="false">badir-kashf-shob-1429-ep06</guid>
+      <pubDate>Mon, 07 Dec 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>شرح كشف الشبهات 07 - فإن قال النبي أعطي الشفاعة وأنا أطلبه مما أعطاه الله</title>
+      <description>الحلقة 7 من شرح كشف الشبهات - الشيخ عبدالرزاق البدر</description>
+      <enclosure url="https://archive.org/download/badir-kashf-shob-1429/07.mp3" length="17091788" type="audio/mpeg"/>
+      <guid isPermaLink="false">badir-kashf-shob-1429-ep07</guid>
+      <pubDate>Tue, 08 Dec 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>شرح كشف الشبهات 08 - فإن قال إنهم لا يكفرون بدعاء الملائكة</title>
+      <description>الحلقة 8 من شرح كشف الشبهات - الشيخ عبدالرزاق البدر</description>
+      <enclosure url="https://archive.org/download/badir-kashf-shob-1429/08.mp3" length="17406361" type="audio/mpeg"/>
+      <guid isPermaLink="false">badir-kashf-shob-1429-ep08</guid>
+      <pubDate>Wed, 09 Dec 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>شرح كشف الشبهات 09 - إذا تحققت أن الذين قاتلهم رسول الله أصح عقولا</title>
+      <description>الحلقة 9 من شرح كشف الشبهات - الشيخ عبدالرزاق البدر</description>
+      <enclosure url="https://archive.org/download/badir-kashf-shob-1429/09.mp3" length="17301504" type="audio/mpeg"/>
+      <guid isPermaLink="false">badir-kashf-shob-1429-ep09</guid>
+      <pubDate>Thu, 10 Dec 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>شرح كشف الشبهات 10 - ولهم شبهة أخرى يقولون إن النبي أنكر على أسامة</title>
+      <description>الحلقة 10 من شرح كشف الشبهات - الشيخ عبدالرزاق البدر</description>
+      <enclosure url="https://archive.org/download/badir-kashf-shob-1429/10.mp3" length="17091788" type="audio/mpeg"/>
+      <guid isPermaLink="false">badir-kashf-shob-1429-ep10</guid>
+      <pubDate>Fri, 11 Dec 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>شرح كشف الشبهات 11 - ولهم شبهة أخرى وهي قصة إبراهيم</title>
+      <description>الحلقة 11 من شرح كشف الشبهات - الشيخ عبدالرزاق البدر</description>
+      <enclosure url="https://archive.org/download/badir-kashf-shob-1429/11.mp3" length="16043212" type="audio/mpeg"/>
+      <guid isPermaLink="false">badir-kashf-shob-1429-ep11</guid>
+      <pubDate>Sat, 12 Dec 2020 12:00:00 +0000</pubDate>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
